@@ -26,6 +26,5 @@ To achieve this, we processed flood occurrence data to generate **binary flood m
 ## 🗺 Example Visualization
 A random 10 km × 10 km patch over **Pakistan (2022)** was used to visualize flood extent and embedding responses.
 
-*(Add your visualization image or notebook link here)*
+<img width="1299" height="428" alt="image" src="https://github.com/user-attachments/assets/95be4f2d-3841-474d-82f8-a3fa87aeb524" />
 
-## ⚙️ Repository Structure
